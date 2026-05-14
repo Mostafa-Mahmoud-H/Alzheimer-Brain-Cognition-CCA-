@@ -4,7 +4,7 @@
 This project applies Canonical Correlation Analysis (CCA) to investigate the complex relationship between two distinct sets of variables in Alzheimer's patients
 
 ### 📊 Analysis Visualization
-![CCA Results Visualization](images/cca_results.png) 
+![CCA Results Visualization](assets/cca_results.png) 
 
 1. Physical Brain Metrics (Set X) Including Whole Brain Volume (nWBV) and Intracranial Volume (eTIV).
 2. ClinicalCognitive Scores (Set Y) Including MMSE scores, Clinical Dementia Rating (CDR), and Education levels.
