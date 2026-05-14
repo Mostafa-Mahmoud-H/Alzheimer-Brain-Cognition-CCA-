@@ -23,9 +23,9 @@ By using CCA, we identify how structural changes in the brain correlate with fun
  Dataset OASIS-1 (Open Access Series of Imaging Studies)
 
 ## 📂 Project Structure
- `Project.ipynb` Full analysis pipeline from data cleaning to CCA implementation.
+ `CCA.ipynb` Full analysis pipeline from data cleaning to CCA implementation.
  `data` (Optional) Link to the OASIS dataset or a processed version.
- `visualizations` Exported plots showing canonical loadings and correlations.
+ `assets` Exported plots showing canonical loadings and correlations.
 
 ## 🚀 How to Run
 1. Clone the repo.
